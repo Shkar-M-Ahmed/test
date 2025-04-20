@@ -4,13 +4,13 @@ Qaiwan International University - Software Engineering
 ### Projects
 high level Drones
 ### languages
-Kurdish
-English
-Italian
+*Kurdish
+*English
+*Italian
 ### Skills
-Programing
+*Programing
 Programing:
-PYTHON
-JAVA
-C++
-HTML - CSS
+*PYTHON
+*JAVA
+*C++
+*HTML - CSS

@@ -6,7 +6,7 @@ high level Drones
 ### languages
 Kurdish
 English
-Italy
+Italian
 ### Skills
 Programing
 Programing:

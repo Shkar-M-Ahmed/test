@@ -8,6 +8,7 @@ Kurdish
 English
 Italy
 ###Skils
+Programing
 Programing:
 PYTHON
 JAVA

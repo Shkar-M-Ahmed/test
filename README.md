@@ -7,7 +7,7 @@ high level Drones
 Kurdish
 English
 Italy
-###Skils
+### Skills
 Programing
 Programing:
 PYTHON
